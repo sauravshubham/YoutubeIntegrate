@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YoutubeIntegrate</string>
+    <string name="API">AIzaSyB6dpxs0LXL1l4ipCipgOaS1PtLcoCiZDk</string>
+
+
+        <string name="player_error">Error initializing YouTube player: %s</string>
+        <string name="seek_to">Jump To</string>
+        <string name="seek_to_hint">Seconds</string>
+    </resources>
